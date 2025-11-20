@@ -1,0 +1,10 @@
+text,label
+I have a complaint about my order and want a refund,complaint
+There is an issue with the invoice, please fix this,complaint
+How do I set up the integration, I have a question,inquiry
+What is the price for the enterprise plan,inquiry
+I want to buy the product, please share pricing,purchase
+Can I place an order today, purchase details,purchase
+I will cancel my subscription, I am unsatisfied,churn_risk
+Thinking to switch services due to problems,churn_risk
+Sharing feedback and a suggestion for improvement,feedback
